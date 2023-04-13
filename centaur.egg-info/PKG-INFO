@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: centaur
+Version: 0.1.0
+Summary: Package for running WFSC algorithms on optical models or instruments
+Home-page: UNKNOWN
+Author: Kian Milani
+Author-email: <kianmilani@arizona.edu>
+License: UNKNOWN
+Keywords: python,WFSC
+Platform: UNKNOWN
+Classifier: Development Status :: Alpha-0.1.0
+Classifier: Programming Language :: Python :: 3
+
+Package for running WFSC algorithms on optical models or instruments
+
